@@ -1,0 +1,14 @@
+{
+  "name": "SiyahilerTaggerBot",
+  "logo":"",
+  "description": "SiyahilerTagger ÜCRETSİZ ŞEKILDE GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
+  "env": {
+    "BER4TBEY": {
+      "description": "My developer Ber4tbey",
+      "value": ""
+    }
+  },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
